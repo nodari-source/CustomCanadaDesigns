@@ -1,0 +1,12 @@
+Threads:
+
+Light Green- royal C421
+Dark Green- R183
+
+
+Pink-royal C048
+Plum - royal C145
+
+Lilack - (inside loop) _ R255
+
+Background: Ligh-light pink - C061
