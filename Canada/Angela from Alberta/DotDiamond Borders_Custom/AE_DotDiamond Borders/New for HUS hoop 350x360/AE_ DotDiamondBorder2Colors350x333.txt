@@ -1,0 +1,7 @@
+5 Colors
+Background,Snow White,255,255,255
+Needle 1,Medium Purple,151,69,120
+Needle 2,Cream Tan,228,202,175
+Needle 3,Midnight Blue,31,26,23
+Needle 4,Medium Pink,239,155,160
+Needle 5,Crimson,221,19,123

@@ -1,0 +1,5 @@
+3 Colors
+Background,Snow White,255,255,255
+Needle 1,Midnight Blue,31,26,23
+Needle 2,Medium Pink,239,155,160
+Needle 3,Crimson,221,19,123
